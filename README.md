@@ -1,7 +1,8 @@
-This module was created to support my DCLondon session on "Decoupling 
+This module was created to support my DrupalCamp London 2020 session on "Decoupling 
 Entity-Validations from Entity-Forms".
 
 * Session Details: https://drupalcamp.london/session/decoupling-entity-validations-entity-forms
+* Slides: https://www.slideshare.net/kunal_k66/decoupling-entityvalidations-from-entityforms
 
 Developer Info: The file `content_validation.module` defines following:
 * (1)`hook_form_BASE_FORM_ID_alter()` This is a old way of adding validations to 
